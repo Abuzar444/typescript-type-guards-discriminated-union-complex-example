@@ -1,7 +1,7 @@
 Calculator App
 This repository contains a simple calculator application implemented in TypeScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+``Features
 Perform addition, subtraction, multiplication, and division operations.
 View the history of operations performed.
 Technologies Used
