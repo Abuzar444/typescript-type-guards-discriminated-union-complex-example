@@ -8,7 +8,7 @@ Perform addition, subtraction, multiplication, and division operations.
 View the history of operations performed.
 Technologies Used
 TypeScript
-Node.js (for running TypeScript code)
+-- Node.js (for running TypeScript code)
 Git (for version control)
 Installation
 Clone the repository to your local machine:
