@@ -1,6 +1,6 @@
 ## Calculator App
 
-This repository contains a simple calculator application implemented in TypeScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+- This repository contains a simple calculator application implemented in TypeScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
@@ -9,7 +9,7 @@ View the history of operations performed.
 Technologies Used
 TypeScript
 
-```Node.js (for running TypeScript code)
+Node.js (for running TypeScript code)
 Git (for version control)
 Installation
 Clone the repository to your local machine:
@@ -34,4 +34,7 @@ bash
 Copy code
 npm start
 Open your web browser and navigate to http://localhost:5173 to use the calculator app.
+
+```
+
 ```
